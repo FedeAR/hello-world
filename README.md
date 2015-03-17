@@ -1,2 +1,6 @@
 # hello-world
-First Repository created for the Hello-Wold Guide
+==============
+
+Hello Wold!!
+
+I am doing my first Guide at Github
